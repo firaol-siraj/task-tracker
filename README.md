@@ -1,4 +1,4 @@
-# ProTrack - React Task Tracker
+# Task Tracker - React Task Tracker
 
 A modern, efficient task management application built with React. This project demonstrates the power of state management and component-based architecture to create a seamless user experience.
 
