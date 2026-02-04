@@ -1,16 +1,21 @@
-# React + Vite
+# ProTrack - React Task Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, efficient task management application built with React. This project demonstrates the power of state management and component-based architecture to create a seamless user experience.
 
-Currently, two official plugins are available:
+## 🚀 Core Functionality
+* **Dynamic Tracking:** Add and remove tasks with instant UI updates.
+* **Smart Analytics:** Real-time counters for Total, Completed, and Remaining tasks.
+* **Interactive UI:** Checkbox logic to toggle task status and visually track progress.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+* **React:** Functional components and Hooks (`useState`).
+* **JavaScript:** Array methods (filter, map) for data manipulation.
+* **CSS3:** Modern styling with a focus on clean, focused layouts.
 
-## React Compiler
+## 🧠 Technical Highlights
+* **State Management:** Used React State to keep the UI in sync with the task list.
+* **Conditional Rendering:** Managed different UI states based on task completion.
+* **Data Persistence:** Optimized for fast performance and logical data flow.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+*Built to master the fundamentals of React and modern web workflows.*
